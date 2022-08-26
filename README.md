@@ -1,5 +1,5 @@
-## Hi 👋, I'm Kuldeep Kaur.
-# I am passionate about teams that deliver value to customers on frequent basis. I am SDET.
+## Hi 👋, I'm Kuldeep Kaur and I am a Software Developer In Test.
+# I am passionate about teams that deliver value to customers on frequent basis.
 
 <p align="left">
   <!-- <a href="https://leetcode.com/kuldeepk-kaur/">
