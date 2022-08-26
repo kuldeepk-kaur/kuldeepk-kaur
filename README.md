@@ -33,6 +33,22 @@
 - 📫 Reach me: [LinkedIn.com/kuldeepk-kaur](https://www.linkedin.com/in/kuldeepk-kaur/)
 - 📝 Checkout my [Resume](resume.pdf).
 
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+Java/Selenium 20 hrs 26 mins █████████████████░░░░░░   75.42 %
+JavaScript   6 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   23.39 %
+Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+```
+
+<!--END_SECTION:waka-->
+
+
 #### My Current Stack
 
 <img height="48" src="java-logo.svg" alt="Java"> <img height="48" src="javascript-original.svg" alt="JavaScript"> <img height="48" src="selenium-original.png" alt="Selenium WebDriver"> <img height="48" src="TestNG-original.png" alt="TestNG"> <img height="48" src="cucumber-original.svg" alt="Cucumber"> <img height="48" src="maven-original.svg" alt="Maven"> <img height="48" src="gradle-original.png" alt="Gradle"> <img height="48" src="wdio-original.png" alt="WDIO"> <img height="48" src="jenkins-original.png" alt="Jenkins"> <img height="48" src="browserstack-original.png" alt="BrowserStack"> <img height="48" src="docker-original.svg" alt="docker"> <img height="48" src="linux-original.svg" alt="Linux"> <img height="48" src="postman-original.svg" alt="POSTMAN"> <img height="48" src="git-original.svg" alt="Git">
