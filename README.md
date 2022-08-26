@@ -21,7 +21,7 @@
 
 - ✨ Working and Contributing @ Bill.com;
 - :fire: Interested in Test Automaiton and DevOps;
-- :calendar: Looking for contributing to Java and JavaScript based test automation projects.
+- :calendar: Looking for contribution to Java and JavaScript based test automation projects.
 
 #### Bio
 
