@@ -33,6 +33,7 @@
 - 📫 Reach me: [LinkedIn.com/kuldeepk-kaur](https://www.linkedin.com/in/kuldeepk-kaur/)
 - 📝 Checkout my [Resume](resume.pdf).
 
+<br/>
 <img align="right" alt="GIF" src="https://github.com/kuldeepk-kaur/kuldeepk-kaur/blob/master/code.gif?raw=true" width="500" height="320"/>
 
 📊 **this week i spent my time on:**
@@ -57,10 +58,7 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 #### Development Activity:
 
 <b>⚡ Github Stats</b>
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kuldeepk-kaur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepk-kaur&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kuldeepk-kaur&show_icons=true&theme=gotham" alt="Kuldeep Kaur" />
 
 <!-- <b>&#128200; Competitive Programming</b>
 <p float="left">
