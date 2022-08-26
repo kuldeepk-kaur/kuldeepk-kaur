@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java/Selenium 20 hrs 26 mins █████████████████░░░░░░   75.42 %
+Java/Selenium 20 hrs 26 mins █████████████████░░░░░░     75.42 %
 JavaScript   6 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   23.39 %
 Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
