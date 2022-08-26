@@ -33,7 +33,7 @@
 - 📫 Reach me: [LinkedIn.com/kuldeepk-kaur](https://www.linkedin.com/in/kuldeepk-kaur/)
 - 📝 Checkout my [Resume](resume.pdf).
 
-<img align="right" alt="GIF" src="https://github.com/kuldeepk-kaur/kuldeepk-kaur/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/kuldeepk-kaur/kuldeepk-kaur/blob/master/code.gif?raw=true" width="500" height="320"/>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
