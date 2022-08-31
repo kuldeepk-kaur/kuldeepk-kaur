@@ -58,7 +58,7 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 #### Development Activity:
 
 <b>⚡ Github Stats</b>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kuldeepk-kaur&show_icons=true&theme=gotham" alt="Kuldeep Kaur" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kuldeepk-kaur&amp;show_icons=true" alt="Kuldeep Kaur GitHub Stats" />
 
 <!-- <b>&#128200; Competitive Programming</b>
 <p float="left">
